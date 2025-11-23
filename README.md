@@ -1,4 +1,4 @@
-# Next.js Playground
+# next-journey
 
 Next.jsを学習するための実践的なサンプルアプリケーションです。Next.jsの主要な機能を体験できるように設計されています。
 
